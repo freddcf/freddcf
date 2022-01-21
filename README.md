@@ -1,5 +1,4 @@
-<h2 align="center">Olá👋, eu me chamo Fred!</h2>
-<br>
+## Olá👋, eu me chamo Fred!
 
 <div align="center" height="180em">
   <a href="https://github.com/freddcf">
