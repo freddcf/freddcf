@@ -1472,12 +1472,12 @@ main {
 @media (max-width: 890px) and (min-width: 600px) {
   .certifications-list {
     width: 50rem;
-    font-size: 1.4rem; } }
+    font-size: 1.6rem; } }
 
 @media (max-width: 600px) and (min-width: 380px) {
   .certifications-list {
     width: auto;
-    font-size: 1.4rem; }
+    font-size: 1.6rem; }
     .certifications-list .topic {
       margin: 0.5rem 0; }
       .certifications-list .topic .topic__sub {
@@ -1490,7 +1490,7 @@ main {
     width: 100vw; }
   .certifications-list {
     margin: 0.5rem 1.5rem 1rem 3.5rem;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     width: 80vw; } }
 
 .thanks-container {
