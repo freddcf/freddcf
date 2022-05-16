@@ -47,6 +47,12 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-blend-mode: multiply;
+    background-color: rgba($color-dark-1, 0.6);
+
+    &:hover {
+      background-color: rgba($color-dark-1, 0);
+    }
   }
 }
 

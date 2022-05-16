@@ -472,7 +472,11 @@ main {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover; }
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: rgba(26, 26, 26, 0.6); }
+    #projects-section .grid-container__box:last-child:hover {
+      background-color: rgba(26, 26, 26, 0); }
 
 @media (max-width: 380px) and (min-width: 0px) {
   #projects-section {
