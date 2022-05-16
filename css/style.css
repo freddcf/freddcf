@@ -1233,7 +1233,7 @@ main {
     .banner .banner-art .animated-compass .line-below {
       z-index: 101; }
   .banner .social-medias .social-medias-display {
-    transform: translate(0rem, -7rem); } }
+    transform: translate(0rem, -5rem); } }
 
 @media (max-width: 600px) and (min-width: 0px) {
   .banner .banner-art [class^="text"] {
@@ -1269,7 +1269,7 @@ main {
     border-width: 0;
     padding: 0;
     gap: 1rem;
-    transform: translate(9rem, 35vh); }
+    transform: translate(9rem, 30vh); }
     .banner .social-medias .social-medias-display::before, .banner .social-medias .social-medias-display::after {
       content: "";
       background-color: #fff;
