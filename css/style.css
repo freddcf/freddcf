@@ -244,9 +244,9 @@ main {
 
 @media (max-width: 600px) and (min-width: 0px) {
   .heading-2__title {
-    font-size: 1.8rem; }
+    font-size: 2rem; }
   .heading-2__text {
-    font-size: 1.5rem; } }
+    font-size: 1.8rem; } }
 
 .close-modalForm {
   position: absolute;
@@ -468,7 +468,7 @@ main {
         #projects-section .grid-container__box:hover .project-title {
           color: transparent; }
   #projects-section .grid-container__box:last-child {
-    background: url("../img/fabricadesolucoes-banner.png") no-repeat center center;
+    background: url("../img/fabricadesolucoes-banner.png") no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -867,7 +867,7 @@ main {
       height: 90%; }
   .wrapper .aboutme-text-content {
     width: 50rem;
-    font-size: 1.8rem; }
+    font-size: 2rem; }
     .wrapper .aboutme-text-content .text {
       line-height: 200%;
       font-weight: 400; }
@@ -977,47 +977,17 @@ main {
         width: auto; }
     .wrapper .aboutme-text-content {
       max-width: 90%;
-      font-size: 1.6rem;
-      /*
-          .contact {
-      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-      background-color: transparent;
-
-      font-size: 2rem;
-      display: flex;
-      align-items: center;
-      gap: 1rem;
-      border: none;
-      cursor: pointer;
-
-      img {
-        width: 4.5rem;
-      }
-    }
-    a {
-      text-decoration: none;
-    }
-    .download-cv {
-      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-      background-color: transparent;
-      font-size: 2rem;
-      display: flex;
-      align-items: center;
-      border-radius: 1rem;
-      border: 2px $color-dark-1 solid;
-      padding: 1rem 3rem;
-      cursor: pointer;
-    }*/ }
+      font-size: 1.6rem; }
       .wrapper .aboutme-text-content .text {
         text-align: left; }
       .wrapper .aboutme-text-content .contact {
-        font-size: 2.2rem;
+        font-size: 2rem;
         gap: 0.8rem;
         border: none; }
         .wrapper .aboutme-text-content .contact img {
           width: 4rem; }
       .wrapper .aboutme-text-content .download-cv {
-        font-size: 2.2rem;
+        font-size: 2rem;
         display: flex;
         align-items: center;
         border-radius: 0.5rem;
@@ -1326,6 +1296,7 @@ main {
   align-items: center;
   background-color: #1a1a1a; }
   #skills-section .heading-2__title {
+    font-size: 2rem;
     color: #fff; }
   #skills-section .heading-2__grey .heading-2__title {
     color: rgba(255, 255, 255, 0.75); }

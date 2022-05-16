@@ -12,7 +12,7 @@ const animatedCompassEl = document.querySelector(".animated-compass");
 
 // TESTING AREA TOOLS
 
-// animateOn();
+animateOn();
 
 function animateOn() {
   preloaderEl.style.display = "none";
