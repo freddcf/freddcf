@@ -662,11 +662,11 @@ main {
 .hidden {
   display: none; }
 
-@media (max-width: 1200px) and (min-width: 1000px) {
+@media (max-width: 1600px) and (min-width: 1000px) {
   .modal {
     gap: 3rem; }
     .modal .project-image {
-      background-size: 100%; } }
+      background-size: cover; } }
 
 @media (max-width: 1000px) and (min-width: 850px) {
   .modal {
@@ -1104,6 +1104,10 @@ main {
         margin: 0;
         font-size: 2rem; } }
 
+@media (min-width: 1350px) {
+  .nav__link {
+    font-size: 1.8rem; } }
+
 @media (max-width: 600px) and (min-width: 0px) {
   .nav {
     padding: 0 2rem; }
@@ -1286,6 +1290,18 @@ main {
   .banner .banner-art [class^="text"] {
     font-size: 4.2rem;
     line-height: 5rem; } }
+
+@media (min-width: 1350px) {
+  .banner-art {
+    font-size: 8.6rem; }
+    .banner-art .text-2 {
+      font-size: 7.4rem; }
+    .banner-art .text-3 {
+      font-size: 7.4rem; }
+    .banner-art .text-4 {
+      font-size: 7.4rem; }
+  .social-medias {
+    transform: scale(1.1); } }
 
 #about-section {
   margin-top: -8rem;

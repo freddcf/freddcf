@@ -156,6 +156,12 @@
   }
 }
 
+@media(min-width: 1350px) {
+  .nav__link {
+    font-size: 1.8rem
+  }
+}
+
 @media (max-width: 600px) and (min-width: 0px) {
   .nav {
     padding: 0 2rem;
