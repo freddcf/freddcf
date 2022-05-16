@@ -1,0 +1,229 @@
+.banner {
+  background-color: $color-dark-1;
+  display: flex;
+  z-index: 100;
+}
+
+.social-medias {
+  height: 85vh;
+  width: 10vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .social-medias-display {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    border: $color-white solid;
+    border-width: 0.3rem 0.3rem 0.3rem 0rem;
+    transform: translateY(-5rem);
+
+    .sm-icon {
+      display: inline-block;
+      width: 2rem;
+      height: 2rem;
+
+      &:not(:last-child) {
+        margin-bottom: 1.5rem;
+      }
+    }
+    z-index: 100;
+  }
+}
+
+.banner-art {
+  position: relative;
+  font-family: "Roboto", sans-serif;
+  height: 85vh;
+  width: 90vw;
+  font-size: 7.6rem;
+  font-weight: bold;
+  line-height: 8.45rem;
+
+  .text-1 {
+    position: absolute;
+    color: $color-white;
+    right: 16.5vw;
+    top: 25vh;
+    z-index: 10;
+
+    &__main-text:nth-child(2) {
+      margin-left: 1.5em;
+    }
+    &__main-text:nth-child(3) {
+      margin-left: 2.5em;
+    }
+    &__red-dot {
+      color: $color-red;
+    }
+    &__blue-smile {
+      color: $color-blue-light;
+    }
+  }
+  .text-2 {
+    position: absolute;
+    right: 18vw;
+    top: -1vh;
+    font-size: 6.4rem;
+    color: rgba($color-dark-2, 1);
+
+    &__main-text:nth-child(2) {
+      margin-left: 1.2em;
+    }
+  }
+
+  .text-3 {
+    font-size: 6.4rem;
+    position: absolute;
+    right: 36vw;
+    top: 42vh;
+    font-size: 6.4rem;
+    color: rgba($color-dark-2, 0.7);
+
+    &__main-text:nth-child(2) {
+      margin-left: 3em;
+    }
+  }
+  .text-4 {
+    text-align: center;
+    font-size: 6.4rem;
+    position: absolute;
+    right: 15vw;
+    top: 44vh;
+    line-height: 8rem;
+    color: rgba($color-dark-2, 0.8);
+  }
+
+  .animated-compass {
+    position: absolute;
+    right: 8rem;
+    top: 63vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 100;
+
+    img {
+      margin-bottom: 1rem;
+      animation: rotate 10s ease-in infinite alternate;
+    }
+
+    .line-below {
+      background-color: $color-white;
+      width: 0.2rem;
+      height: 20rem;
+      border: 0.2rem $color-white solid;
+      border-radius: 2rem;
+    }
+  }
+}
+
+@media (max-width: 890px) and (min-width: 600px) {
+  .banner {
+    .banner-art {
+      [class^="text"] {
+        font-size: 7rem;
+        line-height: 7rem;
+      }
+
+      .animated-compass {
+        right: 4rem;
+
+        .line-below {
+          z-index: 101;
+        }
+      }
+    }
+
+    .social-medias {
+      .social-medias-display {
+        transform: translate(0rem, -5rem);
+      }
+    }
+  }
+}
+
+@media (max-width: 600px) and (min-width: 0px) {
+  .banner {
+    .banner-art {
+      [class^="text"] {
+        line-height: 5.5rem;
+      }
+
+      .text-1 {
+        position: absolute;
+        color: $color-white;
+        right: 12.5vw;
+        top: 25vh;
+        z-index: 10;
+        font-size: 5.5rem;
+
+        &__main-text:nth-child(2) {
+          margin-left: 1em;
+        }
+        &__main-text:nth-child(3) {
+          margin-left: 2em;
+        }
+      }
+      .text-2 {
+        top: 6vh;
+      }
+      .text-2,
+      .text-3,
+      .text-4 {
+        font-size: 4.5rem;
+      }
+      .text-3 {
+        left: -3rem;
+        font-size: 4.2rem;
+      }
+      .text-4 {
+        right: 2rem;
+        font-size: 4.2rem;
+      }
+      .animated-compass {
+        display: none;
+      }
+    }
+
+    .social-medias {
+      .social-medias-display {
+        flex-direction: row;
+        align-items: center;
+        border-width: 0;
+        padding: 0;
+        gap: 1rem;
+
+        transform: translate(9rem, 35vh);
+
+        &::before,
+        &::after {
+          content: "";
+          background-color: $color-white;
+          width: 5rem;
+          height: 3px;
+          border-radius: 1rem;
+        }
+
+        &::before {
+          width: 6rem;
+        }
+
+        .sm-icon {
+          margin: 0;
+        }
+      }
+    }
+  }
+}
+@media (max-width: 350px) and (min-width: 0px) {
+  .banner {
+    .banner-art {
+      [class^="text"] {
+        font-size: 4.2rem;
+        line-height: 5rem;
+      }
+    }
+  }
+}

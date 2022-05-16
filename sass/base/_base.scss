@@ -1,0 +1,62 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  //  Scrollbar Styles
+  scrollbar-width: thin;
+  scrollbar-color: $color-light-1 rgba($color-dark-1, 0.5);
+}
+
+//  Scrollbar Styles
+*::-webkit-scrollbar {
+  width: 12px;
+}
+*::-webkit-scrollbar-track {
+  background: $color-dark-1;
+}
+*::-webkit-scrollbar-thumb {
+  background-color: $color-light-1;
+  border: 1px solid rgba($color-dark-1, 0.5);
+  border-radius: 10px;
+}
+
+// Provide basic, default focus styles.
+:focus {
+  outline: 2px dashed $color-blue-light;
+  outline-offset: 3px;
+}
+
+// Remove default focus styles for mouse users ONLY if
+// :focus-visible is supported on this platform.
+
+:focus:not(:focus-visible) {
+  outline: none;
+  outline-offset: 0px;
+}
+
+// Optionally: If :focus-visible is supported on this
+// platform, provide enhanced focus styles for keyboard
+// focus.
+
+:focus-visible {
+  outline: 2px dashed $color-blue-light;
+  outline-offset: 3px;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Lato", "Segoe UI", Verdana, Tahoma, sans-serif;
+  font-size: 1.6rem;
+  background-color: $color-dark-1;
+  overflow: hidden;
+}
+
+main {
+  background-color: $color-white;
+}

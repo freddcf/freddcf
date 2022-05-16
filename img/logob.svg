@@ -1,0 +1,18 @@
+<svg viewBox="0 0 450 405" fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+        <circle cx="225.418" cy="202.465" r="62.5" transform="rotate(-0.828207 225.418 202.465)" stroke="#efefef"
+          stroke-width="22" class="svg-elem-1"></circle>
+        <path
+          d="M112.163 187.666C105.976 186.868 100.26 191.24 100.022 197.473C99.1572 220.043 104.4 242.505 115.296 262.448C128.003 285.706 147.747 304.344 171.698 315.691C195.649 327.038 222.577 330.512 248.624 325.614C270.958 321.414 291.66 311.244 308.578 296.28C313.25 292.147 313.013 284.954 308.477 280.672V280.672C303.941 276.39 296.828 276.651 292.075 280.691C278.494 292.234 262.092 300.095 244.449 303.413C223.091 307.429 201.009 304.581 181.369 295.276C161.73 285.972 145.54 270.688 135.12 251.617C126.512 235.862 122.207 218.191 122.537 200.37C122.653 194.133 118.35 188.464 112.163 187.666V187.666Z"
+          fill="#efefef" class="svg-elem-2"></path>
+        <g opacity="1">
+          <circle cx="376.015" cy="75.0636" r="34" transform="rotate(48.4784 376.015 75.0636)" stroke="#efefef"
+            stroke-width="22" class="svg-elem-3"></circle>
+          <path d="M346.772 99.8866L51.5946 347.57" stroke="#efefef" stroke-width="22" stroke-linecap="round"
+            class="svg-elem-4"></path>
+          <line x1="62.6788" y1="281.484" x2="50.8678" y2="348.45" stroke="#efefef" stroke-width="22"
+            stroke-linecap="round" class="svg-elem-5"></line>
+          <line x1="11" y1="-11" x2="79" y2="-11" transform="matrix(-1 -4.40039e-05 -4.40039e-05 1 129.884 359.886)"
+            stroke="#efefef" stroke-width="22" stroke-linecap="round" class="svg-elem-6"></line>
+        </g>
+      </svg>

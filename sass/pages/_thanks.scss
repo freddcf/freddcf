@@ -1,0 +1,44 @@
+.thanks-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &__header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 5rem;
+
+    img {
+      width: 6rem;
+    }
+    p {
+      font-size: 3rem;
+      color: $color-white;
+    }
+  }
+
+  &__content {
+    text-align: center;
+
+    &__title {
+      color: $color-white;
+      font-size: 2rem;
+      margin-bottom: 6rem;
+    }
+    a:link,
+    a:visited,
+    a:active {
+      font-size: 2rem;
+      background: $color-white;
+      color: $color-dark-1;
+      font-weight: bold;
+      padding: 2rem 6rem;
+      text-decoration: none;
+      border-radius: 1rem;
+    }
+  }
+}
