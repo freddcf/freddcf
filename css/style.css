@@ -971,13 +971,12 @@ main {
     margin: 4rem 0 8rem;
     flex-direction: column; }
     .wrapper .profile-box {
-      width: 90vw;
-      height: 90vw;
+      width: 90%;
       margin-bottom: 2rem; }
       .wrapper .profile-box img {
-        height: 90%; }
+        width: auto; }
     .wrapper .aboutme-text-content {
-      max-width: 28rem;
+      max-width: 90%;
       font-size: 1.6rem; }
       .wrapper .aboutme-text-content .text {
         text-align: left; }
@@ -1234,7 +1233,7 @@ main {
     .banner .banner-art .animated-compass .line-below {
       z-index: 101; }
   .banner .social-medias .social-medias-display {
-    transform: translate(0rem, -5rem); } }
+    transform: translate(0rem, -7rem); } }
 
 @media (max-width: 600px) and (min-width: 0px) {
   .banner .banner-art [class^="text"] {

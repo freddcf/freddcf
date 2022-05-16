@@ -168,17 +168,16 @@
     flex-direction: column;
 
     .profile-box {
-      width: 90vw;
-      height: 90vw;
+      width: 90%;
       margin-bottom: 2rem;
 
       img {
-        height: 90%;
+        width: auto;
       }
     }
 
     .aboutme-text-content {
-      max-width: 28rem;
+      max-width: 90%;
       font-size: 1.6rem;
 
       .text {
