@@ -12,10 +12,10 @@
     height: 50rem;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
 
     img {
-      height: 90%;
+      height: 100%;
     }
   }
   .aboutme-text-content {

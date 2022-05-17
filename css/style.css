@@ -865,7 +865,7 @@ main {
     justify-content: center;
     align-items: center; }
     .wrapper .profile-box img {
-      height: 90%; }
+      height: 100%; }
   .wrapper .aboutme-text-content {
     width: 50rem;
     font-size: 2rem; }
