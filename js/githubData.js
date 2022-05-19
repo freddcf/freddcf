@@ -52,7 +52,7 @@ function getGithubData() {
             desc: repo.description,
             demo: repo.homepage ? repo.homepage : null,
             url: repo.html_url,
-            topics: repo.topics.filter((e) => !e.includes("up")),
+            topics: repo.topics.filter((e) => !e.includes("portfolio-sm")),
             image: `https://github.com/freddcf/${repo.name}/blob/main/.github/sr-img.png?raw=true`,
           };
           repoSM.push(repoItem);
@@ -67,7 +67,7 @@ function getGithubData() {
             desc: repo.description,
             demo: repo.homepage ? repo.homepage : null,
             url: repo.html_url,
-            topics: repo.topics.filter((e) => !e.includes("up")),
+            topics: repo.topics.filter((e) => !e.includes("portfolio-lg")),
             image: `https://github.com/freddcf/${repo.name}/blob/main/.github/sr-img.png?raw=true`,
           };
           repoLG.push(repoItem);
