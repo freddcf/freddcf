@@ -1,4 +1,15 @@
-## Olá👋, eu me chamo Fred!
+<h2 style="display: inline_block">Olá👋, eu me chamo Fred!
+  
+  <img src="https://komarev.com/ghpvc/?username=freddcf&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" align="right" title="Profile views" alt="Profile views" />
+
+  <a href="mailto:freddcfonseca@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" align="right" title="Send me an email" alt="Gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/freddcfonseca/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" align="right" title="My Social Network" alt="LinkedIn">
+  </a>
+</h2>
 
 <div align="center" height="180em">
   <a href="https://github.com/freddcf">
