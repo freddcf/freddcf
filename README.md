@@ -1,4 +1,4 @@
-<h2 style="display: inline_block">Olá👋, eu me chamo Fred!
+<h2 style="display: inline_block">Hi👋, I'm Fred!
   
   <img src="https://komarev.com/ghpvc/?username=freddcf&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" align="right" title="Profile views" alt="Profile views" />
 
@@ -20,7 +20,7 @@
   ##
   
 <div style="display: inline_block">
-  <h3>Atualmente pesquisando sobre: 
+  <h3>Skills: 
   <img align="center" alt="Fred-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Fred-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fred-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
