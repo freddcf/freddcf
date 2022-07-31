@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Vuejs 
 - 💬 Ask me about ... Anime and programming related stuff :laughing:
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Feel free to contact me on [telegram](https://t.me/FredOnDemand)
+- ⚡ Fun fact: Feel free to contact me on [telegram](https://t.me/FredOnDemand), and look my at my [portfolio](https://freddcf.github.io/freddcf)
   
   ##
   
