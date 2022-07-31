@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 * 🏹 I’m looking to collaborate on ... Any of project
 * 🛡 I’m looking for help with Vuejs 
 * 💬 Ask me about ... Anime and programming related stuff :laughing:
-* 💾 Fun fact: Feel free to contact me on [telegram](https://t.me/FredOnDemand), and look my at my [portfolio](https://freddcf.github.io/freddcf)
+* 💾 Fun fact: Feel free to contact me on [telegram](https://t.me/FredOnDemand), and take a look at my [portfolio](https://freddcf.github.io/freddcf)
   
   ##
   
