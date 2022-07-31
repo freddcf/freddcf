@@ -13,7 +13,7 @@
 
 **So... I'm Fred, a brazilian developer, I'm now looking forward to learn the weird stuff programming has to offer!**
 
-<img align="right" width="220px" src="/.github/walkindope.gif"/>
+<img align="right" width="250px" src="/.github/restnow.gif"/>
 
 ###
 
