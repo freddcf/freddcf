@@ -11,21 +11,21 @@
   </a>
 </h1>
 
-<img align="right" width="250px" src="/.github/walkindope.gif"/>
-
 **So... I'm Fred, a brazilian developer, I'm now looking forward to learn the weird stuff programming has to offer!**
+
+<img align="right" width="220px" src="/.github/walkindope.gif"/>
 
 ###
 
 Here are some ideas to get you started:
-- :school: I’m currently studing in LTV, Pacatuba-CE
-- 🔭 I’m currently in an internship at the WDA company
-- 🌱 I’m currently learning Spring Boot and Vuejs
-- 👯 I’m looking to collaborate on ... Any of project
-- 🤔 I’m looking for help with Vuejs 
-- 💬 Ask me about ... Anime and programming related stuff :laughing:
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Feel free to contact me on [telegram](https://t.me/FredOnDemand), and look my at my [portfolio](https://freddcf.github.io/freddcf)
+* :school: I’m currently studing in LTV, Pacatuba-CE
+* 🔭 I’m currently in an internship at the WDA company
+* 🌱 I’m currently learning Spring Boot and Vuejs
+* 👯 I’m looking to collaborate on ... Any of project
+* 🤔 I’m looking for help with Vuejs 
+* 💬 Ask me about ... Anime and programming related stuff :laughing:
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: Feel free to contact me on [telegram](https://t.me/FredOnDemand), and look my at my [portfolio](https://freddcf.github.io/freddcf)
   
   ##
   
