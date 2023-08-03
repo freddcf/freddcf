@@ -18,13 +18,11 @@
 ###
 
 Here are some ideas to get you started:
-* 📚 I’m currently studing in LTV, Pacatuba-CE
-* 🕹 I’m currently in an internship at the WDA company
+* 📚 I’m currently Computer Science on Descomplica
 * ⚔ I’m currently learning Spring Boot and Vuejs
 * 🏹 I’m looking to collaborate on ... Any of project
 * 🛡 I’m looking for help with Vuejs 
 * 💬 Ask me about ... Anime and programming related stuff :laughing:
-* 💾 Fun fact: Feel free to contact me on [telegram](https://t.me/FredOnDemand), and take a look at my [portfolio](https://freddcf.github.io/freddcf)
   
   ##
   
@@ -35,13 +33,11 @@ Here are some ideas to get you started:
   <img align="center" alt="Fred-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fred-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Fred-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fred-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fred-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fred-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Fred-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Fred-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Fred-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Fred-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Fred-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Fred-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </h3>
 </div>
