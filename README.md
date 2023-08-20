@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   </h3>
 </div>
   
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/freddcf/freddcf/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center" height="180em">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=freddcf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
