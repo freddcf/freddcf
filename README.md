@@ -11,20 +11,20 @@
   </a>
 </h1>
 
-**So... I'm Fred, a brazilian developer, I'm now looking forward to learn the weird stuff programming has to offer!**
+👋 I'm Fred Fonseca, a web developer with over a year of experience. My journey in web development has led me to master technologies such as React, Vue.js, and Spring Boot. I have the ability to create responsive layouts, ensuring a great user experience across different devices. I am constantly seeking to learn and enhance my skills to tackle exciting challenges in the programming world. Let's build something amazing together!
 
 <img align="right" width="250px" src="/.github/restnow.gif"/>
 
 ###
 
 Here are some ideas to get you started:
-* 📚 I’m currently Computer Science on Descomplica
-* ⚔ I’m currently learning Spring Boot and Vuejs
-* 🏹 I’m looking to collaborate on ... Any of project
-* 🛡 I’m looking for help with Vuejs 
-* 💬 Ask me about ... Anime and programming related stuff :laughing:
-  
-  ##
+* 📚 I'm an undergraduate student majoring in Computer Science.
+* ⚔ I am currently studying ReactJS, Vue.js, and Spring Boot.
+* 🏹 Open to collaborating on different projects.
+* 🛡 I’m looking for help with Backend and DevOps related stuff
+* 💬 Ask me about web development, anime and RPG games.
+
+##
   
 <div style="display: inline_block">
   <h3>Techs:  
