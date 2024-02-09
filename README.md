@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 * 💬 Ask me about web development, anime and RPG games.
 
 ##
+##
   
 <div style="display: inline_block">
   <h3>Techs:  
