@@ -13,8 +13,6 @@
 
 👋 I'm Fred Fonseca, a web developer with over a year of experience. My journey in web development has led me to master technologies such as React, Vue.js, and Spring Boot. I have the ability to create responsive layouts, ensuring a great user experience across different devices. I am constantly seeking to learn and enhance my skills to tackle exciting challenges in the programming world. Let's build something amazing together!
 
-<img align="right" width="250px" src="/.github/restnow.gif"/>
-
 ###
 
 Here are some ideas to get you started:
@@ -59,9 +57,3 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/freddcf/freddcf/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
-<div align="center" height="180em">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=freddcf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddcf&layout=compact&langs_count=7&theme=dracula"/>
-</div>
